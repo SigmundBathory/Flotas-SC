@@ -19,7 +19,7 @@
 
 1. Descarga el archivo `Flotas SC 1.0.exe` desde la sección de [Releases](https://github.com/SigmundBathory/Flotas-SC/releases).
 2. Ejecuta la aplicación.
-3. Selecciona la carpeta raíz de tu instalación de Star Citizen (ej: `C:\Program Files\Roberts Space Industries\Star Citizen\LIVE`).
+3. Selecciona la carpeta raíz de tu instalación de Star Citizen (ej: `C:\Program Files\Roberts Space Industries\Star Citizen\LIVE\data\Localization\spanish_(spain)`).
 4. ¡Empieza a organizar tu flota!
 
 ## 📸 Capturas de Pantalla
