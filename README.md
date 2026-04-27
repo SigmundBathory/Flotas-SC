@@ -24,7 +24,10 @@
 
 ## 📸 Capturas de Pantalla
 
-> *[Inserta aquí capturas de la aplicación para un mejor impacto visual]*
+<p align="center">
+  <img src="https://ibb.co/TDyn0tGr" width="48%" alt="Interfaz Principal" />
+  <img src="https://ibb.co/V0TSY65z" width="48%" alt="Gestión de Flotas" />
+</p>
 
 ## 📝 Notas de Versión (v1.0)
 
