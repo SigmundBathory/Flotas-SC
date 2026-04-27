@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://i.ibb.co/s9Mmg0s7/flotas.png" width="190" height="150" /><br>Flotas SC 1.0 - Star Citizen Fleet Manager</p>
+# <p align="center"><img src="https://i.ibb.co/s9Mmg0s7/flotas.png" width="220" height="180" /><br>Flotas SC 1.0 - Star Citizen Fleet Manager</p>
 
 ![Star Citizen Inspired UI](https://img.shields.io/badge/UI-Star_Citizen_Inspired-00d5ff?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-1.0_Production-green?style=for-the-badge)
