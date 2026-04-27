@@ -25,8 +25,8 @@
 ## 📸 Capturas de Pantalla
 
 <p align="center">
-  <img src="https://ibb.co/TDyn0tGr" width="48%" alt="Interfaz Principal" />
-  <img src="https://ibb.co/V0TSY65z" width="48%" alt="Gestión de Flotas" />
+  <img src="https://i.ibb.co/r2v099x/photo-2026-04-27-08-02-45.jpg" width="48%" alt="Interfaz Principal" />
+  <img src="https://i.ibb.co/Zxb0vV8/photo-2026-04-27-08-02-45-2.jpg" width="48%" alt="Gestión de Flotas" />
 </p>
 
 ## 📝 Notas de Versión (v1.0)
