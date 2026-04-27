@@ -1,4 +1,4 @@
-# 🚀 Flotas SC 1.0 - Star Citizen Fleet Manager
+# <p align="center"><img src="https://i.ibb.co/s9Mmg0s7/flotas.png" width="100" height="100" /><br>Flotas SC 1.0 - Star Citizen Fleet Manager</p>
 
 ![Star Citizen Inspired UI](https://img.shields.io/badge/UI-Star_Citizen_Inspired-00d5ff?style=for-the-badge)
 ![Version](https://img.shields.io/badge/Version-1.0_Production-green?style=for-the-badge)
@@ -19,7 +19,7 @@
 
 1. Descarga el archivo `Flotas SC 1.0.exe` desde la sección de [Releases](https://github.com/SigmundBathory/Flotas-SC/releases).
 2. Ejecuta la aplicación.
-3. Selecciona la carpeta raíz de tu instalación de Star Citizen (ej: `C:\Program Files\Roberts Space Industries\Star Citizen\LIVE\data\Localization\spanish_(spain)`).
+3. Selecciona la carpeta raíz de tu instalación de Star Citizen (ej: `C:\Program Files\Roberts Space Industries\Star Citizen\LIVE`).
 4. ¡Empieza a organizar tu flota!
 
 ## 📸 Capturas de Pantalla
