@@ -35,6 +35,7 @@
 - Soporte para múltiples naves en una sola lista (Flotas).
 - Corrección de errores en la detección de naves como la Anvil Carrack.
 - Optimización de rendimiento y gestión de rutas de Windows.
+- Cuando actualices la version de la traducción o global.ini tendrás que volver a sincronizar la lista guardada con el juego.
 
 ## 👨‍💻 Autor
 
