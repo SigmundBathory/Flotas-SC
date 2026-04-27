@@ -23,9 +23,10 @@
 4. ¡Empieza a organizar tu flota!
 
 ## 📸 Capturas de Pantalla
+
 <p align="center">
-  <img src="https://via.placeholder.com/600x400?text=https://i.ibb.co/p6dzjq5M/photo-2026-04-27-08-02-45-2.jpg" width="48%" />
-  <img src="https://via.placeholder.com/600x400?text=https://i.ibb.co/sp7D1q4t/photo-2026-04-27-08-02-45.jpg" width="48%" />
+  <img src="https://i.ibb.co/p6dzjq5M/photo-2026-04-27-08-02-45-2.jpg" width="48%" alt="Interfaz Principal" />
+  <img src="https://i.ibb.co/sp7D1q4t/photo-2026-04-27-08-02-45.jpg" width="48%" alt="Gestión de Flotas" />
 </p>
 
 ## 📝 Notas de Versión (v1.0)
